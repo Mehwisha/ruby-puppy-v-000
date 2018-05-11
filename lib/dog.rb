@@ -13,7 +13,4 @@ def self.all
       puts dog.name
 end
 end
-def name
-@name = name
-end
 end
